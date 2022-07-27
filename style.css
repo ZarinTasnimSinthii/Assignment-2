@@ -1,0 +1,218 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+}
+
+
+
+.front {
+    width: 1321px;
+    height: 646px;
+    background-color: #161616;
+    margin-left: 140px;
+    margin-left: 130px;
+    margin-top: 50px;
+    border-radius: 30px;
+    display: flex;
+    margin-bottom: 130px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+    padding-top: 33px;
+    padding-right: 79px;
+    padding-top: 95px;
+    padding-bottom: 95px;
+}
+
+
+.heading {
+    color:
+        #FFFFFF;
+    padding-left: 69px;
+
+
+}
+
+.heading h1 {
+    font-weight: 700px;
+    font-size: 70px;
+    line-height: 80px;
+}
+
+.heading p {
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 32px;
+    line-height: 26px;
+    width: 493.61px;
+    height: 83.89px;
+}
+
+.button {
+    background-image: linear-gradient(red, red);
+    padding: 16px 25px;
+    color: aliceblue;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.upcoming-info {
+    width: 312px;
+    height: 312px;
+    background-color: #161616;
+    border-radius: 10px;
+    margin-left: 140px;
+    margin-bottom: 326px;
+    margin-top: 130px;
+    margin-right: 37px;
+}
+
+.info {
+    width: 312px;
+    height: 312px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.button-watch {
+    background-image: linear-gradient(#DD0000, #DD0000);
+    padding: 16px 25px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-decoration: none;
+    width: 200px;
+    height: 64px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.button-other {
+    background-image: linear-gradient(#FFFFFF, #FFFFFF);
+    padding: 16px 25px;
+    color: #161616;
+    border-radius: 5px;
+    text-decoration: none;
+    width: 200px;
+    height: 64px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+
+
+}
+
+.flag {
+    align-items: center;
+    display: flex;
+    padding-top: 35px;
+
+}
+
+.for-flex {
+    display: flex;
+    align-items: center;
+}
+
+.for-level {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 24px;
+    row-gap: 24px;
+
+
+}
+
+.countries {
+
+    width: 312px;
+    height: 242px;
+
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+
+}
+
+.flags {
+    margin-bottom: 30px;
+
+
+
+}
+
+.span-flag {
+    padding-left: 30px;
+}
+
+.germany-flag {
+    padding-right: 30px;
+}
+
+.sports-info h1 {
+    padding-left: 30px;
+}
+
+.sports-info p {
+    text-align: center;
+}
+
+
+.for-margin {
+    margin-left: 22px;
+    margin-right: 22px;
+
+    margin-top: 5px;
+}
+
+
+#foot {
+    width: 100%;
+    height: 444px;
+    background-color: #161616;
+
+}
+
+.for-big {
+    padding-top: 120px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 600px;
+
+}
+
+#line {
+    Width: 1320px;
+
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 80px;
+}
+
+.information {
+    display: flex;
+    margin-bottom: 130px;
+    color: #FFFFFF;
+    margin-left: 351px;
+    margin-right: 351px;
+
+}
+
+.about {
+    padding-left: 35px;
+    color: class="about";
+}
