@@ -2,6 +2,7 @@ body {
     font-family: 'Poppins', sans-serif;
     width: 100%;
     background-color: #FFFFFF;
+    overflow-x: hidden;
 
 }
 
@@ -168,6 +169,11 @@ body {
 
 .sports-info p {
     text-align: center;
+}
+
+.player img {
+    width: 100%;
+
 }
 
 
